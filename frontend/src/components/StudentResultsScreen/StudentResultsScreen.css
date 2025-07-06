@@ -1,0 +1,16 @@
+/* Student Results Screen Styles */
+.student-results-screen {
+  min-height: 100vh;
+  background: #f8f9fa;
+}
+
+.wait-message {
+  text-align: center;
+  margin-top: 32px;
+}
+
+.wait-message p {
+  font-size: 16px;
+  font-weight: 500;
+  color: #212529;
+}
